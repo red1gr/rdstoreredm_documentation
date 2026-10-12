@@ -15,6 +15,11 @@
   * [INSTALLATION](scripts/rd-interactions/installation.md)
   * [CONFIGURATION](scripts/rd-interactions/configuration.md)
   * [EXPORTS](scripts/rd-interactions/configuration-1.md)
+* [LET SAY NEW SCRIPT](scripts/let-say-new-script/README.md)
+  * [PREVIEW](scripts/let-say-new-script/preview.md)
+  * [INSTALLATION](scripts/let-say-new-script/installation.md)
+  * [CONFIGURATION](scripts/let-say-new-script/configuration.md)
+  * [EXPORTS](scripts/let-say-new-script/configuration-1.md)
 
 ## INFOMATIONS
 
