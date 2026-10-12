@@ -1,0 +1,11 @@
+$schema: https://api.gitbook.com/gitbook-docs.yaml
+site:
+  title: RDSTORE REDM DOCS
+  structure:
+    - type: space
+      key: space-1
+      title: RDSTORE REDM
+      path: rdstore-redm
+      default: true
+      content:
+        directory: ./rdstore-redm
